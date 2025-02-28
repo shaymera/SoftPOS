@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paola\\code\\PaymentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\services\\paymentprocesserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:services\\paymentprocesserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\interfaces\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:interfaces\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\paymentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:paymentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|c:\\users\\paola\\code\\paymentapi\\paymentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3BEF0BD7-DE3B-49DF-BCE1-EF293163BBD3}|PaymentApi.csproj|solutionrelative:paymentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Services\\TransactionService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:13:44.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T21:17:33.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:17:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\IRabbitMqService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRabbitMqService.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\IRabbitMqService.cs",
+              "RelativeToolTip": "Interfaces\\IRabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:17:23.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:17:22.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:38:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentApi.csproj",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\PaymentApi.csproj",
+              "RelativeDocumentMoniker": "PaymentApi.csproj",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\PaymentApi.csproj",
+              "RelativeToolTip": "PaymentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T11:59:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:12:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:03:22.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentProcesserService.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Services\\PaymentProcesserService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentProcesserService.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Services\\PaymentProcesserService.cs",
+              "RelativeToolTip": "Services\\PaymentProcesserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:03:10.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:01:41.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentApi.http",
+              "DocumentMoniker": "C:\\Users\\paola\\code\\PaymentApi\\PaymentApi.http",
+              "RelativeDocumentMoniker": "PaymentApi.http",
+              "ToolTip": "C:\\Users\\paola\\code\\PaymentApi\\PaymentApi.http",
+              "RelativeToolTip": "PaymentApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-22T23:38:02.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

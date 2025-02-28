@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "PaymentApi.Controllers.TransactionController",
+    "Method": "Index",
+    "RelativePath": "api/Transaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PaymentApi.Controllers.TransactionController",
+    "Method": "GetPaymentStatus",
+    "RelativePath": "api/Transaction/{transactionID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PaymentApi.Controllers.TransactionController",
+    "Method": "AddTransac",
+    "RelativePath": "api/Transaction/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "PaymentApi.Models.Transaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PaymentApi.Controllers.TransactionController",
+    "Method": "BeginTransaction",
+    "RelativePath": "api/Transaction/begin/{transactionID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionID",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
